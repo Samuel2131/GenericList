@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1675694911 source:c:\users\user\onedrive\desktop\c\genericlistlib\main.c
+	"GenericList.h"
+	"SortFunctions.c"
+
+1675694911 c:\users\user\onedrive\desktop\c\genericlistlib\genericlist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1675694911 source:c:\users\user\onedrive\desktop\c\genericlistlib\sortfunctions.c
+	"GenericList.h"
+
+1675694911 c:\users\user\onedrive\desktop\c\genericlistlib\sortfunctions.c
+	"GenericList.h"
+
